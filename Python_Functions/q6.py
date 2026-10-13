@@ -6,7 +6,7 @@ from openpyxl import load_workbook
 # The Excel file must be in the same folder as this script
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 EXCEL_FILE = os.path.join(SCRIPT_DIR, "CSFB-FT11 Study Groups.xlsx")
-OUTPUT_FOLDER = r"C:\Users\ngiog\Desktop\Moringa School\Lab Works\Python_Functions\study_groups"
+OUTPUT_FOLDER = r"C:\Users\User\Desktop\Moringa-School-Labs\Python_Functions\study_groups"
 
 
 def name_from_email(email):

@@ -1,6 +1,6 @@
 # Q1: Moringa School Career Fair sign-up
 
-FILENAME = r"C:\Users\ngiog\Desktop\Moringa School\Lab Works\Python_Functions\attendees.txt"
+FILENAME = r"C:\Users\User\Desktop\Moringa-School-Labs\Python_Functions\attendees.txt"
 
 # Count existing records (0 if the file doesn't exist yet)
 try:
